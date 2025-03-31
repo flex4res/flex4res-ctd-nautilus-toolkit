@@ -24,7 +24,7 @@ A TypeScript project showing [Nautilus](https://github.com/deltaDAO/nautilus) us
    > The account needs to be funded with tokens. Depending on the example and network either `gx` (`GENX`) or EUROe (`PONTUSXDEV`, `PONTUSXTEST`) for the network fees are required. You can contact deltaDAO under contact@delta-dao.com to receive tokens and onboarding.
 3. Update the necessary scripts as needed
 
-   Go to the `publish.ts`, `edit.ts`, `access.ts` or `compute.ts` files and change or update them according to your needs. Working code examples are provided in each file.
+   Go to the [publish.ts](publish.ts), [edit.ts](edit.ts), [access.ts](access.ts) or [compute.ts](compute.ts) files and change or update them according to your needs. Working code examples are provided in each file.
 
 4. Uncomment and adjust functions you want to test:
 
